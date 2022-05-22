@@ -1,4 +1,5 @@
 @import url(fontawesome-all.min.css);
+@import url("https://fonts.googleapis.com/css2?family=La+Belle+Aurore&display=swap");
 @import url("https://fonts.googleapis.com/css?family=Merriweather:300,700,300italic,700italic|Source+Sans+Pro:900");
 
 /*
@@ -181,7 +182,7 @@ input, select, textarea {
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		font-family: "Source Sans Pro", Helvetica, sans-serif;
+		font-family: "La Belle Aurore", cursive;
 		font-weight: 900;
 		line-height: 1.5;
 		letter-spacing: 0.075em;
